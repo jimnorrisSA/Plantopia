@@ -2896,7 +2896,7 @@ export default function App() {
   return (
     <div
       style={{
-        background: T.bg,
+        background: "repeating-linear-gradient(135deg, #fffbf0, #fffbf0 20px, #f0f7e8 20px, #f0f7e8 40px)",
         minHeight: "100vh",
         maxWidth: 430,
         margin: "0 auto",
