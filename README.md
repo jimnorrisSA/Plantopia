@@ -1,2 +1,0 @@
-# Plantopia
-Created with CodeSandbox
