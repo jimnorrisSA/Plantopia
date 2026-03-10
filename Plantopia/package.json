@@ -2,14 +2,14 @@
   "name": "plantopia-app",
   "version": "1.0.0",
   "description": "Plant pixel art in the real world",
-  "keywords": [],
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "@supabase/supabase-js": "2.39.0",
     "mapbox-gl": "3.19.1",
-    "@mapbox/mapbox-gl-geocoder": "5.1.2"
+    "@mapbox/mapbox-gl-geocoder": "5.1.2",
+    "typescript": "4.9.5"
   },
   "scripts": {
     "start": "react-scripts start",
